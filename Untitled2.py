@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+Print ("This will be mainly used for the capstone project")
 import pandas as pd
 
 
